@@ -17,8 +17,14 @@
 		"tradeRequest": "Please, donate to the shrine!",
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
-		"uniqueName": "Lineage Of Shrine Maidens",
-		"uniques": ["Free Great Person <upon entering a Golden Age>", "[+1] Movement <for [Shrine Guardian] units> <in [Friendly Land] tiles> <during a Golden Age>"]
+		"uniqueName": "Great Defender",
+		"uniques": ["Cannot build [Settler] units",
+			        "[-30]% Faith cost of generating Great Prophet equivalents <hidden from users>",
+			        "[-20]% Science cost of researching new Technologies <hidden from users>",
+			        "[-20]% Culture cost of adopting new Policies <hidden from users",
+			        "[-150]% Culture cost of natural border growth [in capital] <hidden from users>",
+			        "
+			        ]
 		"cities": ["Hakurei Shrine"]
 	}
 ]
