@@ -14,7 +14,7 @@
 		            "[20] Strength <starting from the [Medieval era]>","[40] Strength <starting from the [Modern era]>"]
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
-		"promotions": ["[Boarding I]","[Boarding II]","[Boarding III]"]
+		"promotions": ["[Great Generals II]"]
 	},
 	{
 		"name": "Komainu Pair",
