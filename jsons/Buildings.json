@@ -17,6 +17,7 @@
 		"faith": 24,
 		"cost": 400,
 		"maintenance": 1,
+		"isNationalWonder": true,
 		"requiredTech": "Pottery",
 		"uniques": [ "[3] Movement <in [Capital] cities>",
 		             "[100]% Strength for cities <in [Capital] cities>"],
