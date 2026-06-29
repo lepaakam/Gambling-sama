@@ -9,6 +9,7 @@
 		"rangedStrength": 10,
 		"range": 2,
 		"cost": 40,
+		"uniques": ["[1] additional attacks per turn", ""]
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
 		"promotions": ["[Boarding I]","[Boarding II]","[Boarding III]"]
@@ -20,12 +21,12 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 75,
-		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
+		"uniques": ["[1] additional attacks per turn", ""]
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
-		"promotions": ["[]"],
+		"promotions": ["[Great Generals II]"],
 		"attackSound": "metalhit"
 	},
 ]
