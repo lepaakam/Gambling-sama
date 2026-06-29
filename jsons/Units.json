@@ -1,7 +1,7 @@
 [	
 	{
 		"name": "Komainu Guardian",
-		"unitType": "Sword",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Hakurei Shrine",
 		"replaces": "Warrior",
 		"movement": 2,
