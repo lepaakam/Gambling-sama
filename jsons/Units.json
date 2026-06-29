@@ -4,7 +4,7 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Hakurei Shrine",
 		"replaces": "Warrior",
-		"movement": 2,
+		"movement": 1,
 		"strength": 8,
 		"rangedStrength": 10,
 		"range": 2,
@@ -23,7 +23,7 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 75,
-		"uniques": ["[1] additional attacks per turn", ""]
+		"uniques": ["[1] additional attacks per turn", "Heals [100] damage if it kills a unit <in [Capital] cities>"]
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
