@@ -2,6 +2,9 @@
 	{
 		"name": "[Shrine Guardian]",
 		"uniques": ["Shrine Guardian", "[+40]% Strength <in [Capital] cities>", "[2] Movement <in [Capital] cities>",
-		            "No damage penalty for wounded units <in [Capital] cities>","Unit will heal every turn, even if it performs an action <in [Capital] cities>"]
+		            "No damage penalty for wounded units <in [Capital] cities>","Unit will heal every turn, even if it performs an action <in [Capital] cities>",
+		            "[40]% Strength <when attacking> <in [Capital] cities>","[40]% Strength <when defending> <in [Capital] cities>"
+		
+		          ]
 	}
 ]
