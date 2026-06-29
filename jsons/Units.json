@@ -9,7 +9,8 @@
 		"rangedStrength": 10,
 		"range": 2,
 		"cost": 40,
-		"uniques": ["[1] additional attacks per turn", ""]
+		"uniques": ["[1] additional attacks per turn", "[-200]% Strength for enemy [all] units in adjacent [all] tiles <in [Capital] cities>",
+		            "[75]% Strength bonus for [all] units within [8] tiles <in [Capital] cities>","Blast radius [8] <in [Capital] cities>"]
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
 		"promotions": ["[Boarding I]","[Boarding II]","[Boarding III]"]
