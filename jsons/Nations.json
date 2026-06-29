@@ -24,7 +24,9 @@
 			        "[-20]% Culture cost of adopting new Policies <hidden from users",
 			        "[-150]% Culture cost of natural border growth [in capital] <hidden from users>",
 			        "[All] units gain the [Shrine Guardian] promotion <hidden from users>",
-			        "[100]% Strength decreasing with distance from the capital",
+			        "May not annex cities",
+			        "May buy items in puppet cities",
+			        "[100]% Strength decreasing with distance from the capital"
 			        ]
 		"cities": ["Hakurei Shrine"]
 	}
