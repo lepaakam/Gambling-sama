@@ -7,7 +7,7 @@
 		"movement": 1,
 		"strength": 8,
 		"rangedStrength": 10,
-		"range": 2,
+		"range": 4,
 		"cost": 40,
 		"uniques": ["[1] additional attacks per turn", "[-200]% Strength for enemy [all] units in adjacent [all] tiles <in [Capital] cities>",
 		            "[75]% Strength bonus for [all] units within [8] tiles <in [Capital] cities>","Blast radius [8] <in [Capital] cities>",
@@ -23,7 +23,8 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 75,
-		"uniques": ["[1] additional attacks per turn", "Heals [100] damage if it kills a unit <in [Capital] cities>"]
+		"uniques": ["[2] additional attacks per turn", "Heals [100] damage if it kills a unit <in [Capital] cities>",
+		            "[100]% XP gained from combat <in [Capital] cities>","[30] Strength <starting from the [Medieval era]>","[60] Strength <starting from the [Modern era]>"]
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
