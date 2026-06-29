@@ -3,8 +3,8 @@
 		"name": "[Shrine Guardian]",
 		"uniques": ["Shrine Guardian", "[+40]% Strength <in [Capital] cities>", "[2] Movement <in [Capital] cities>",
 		            "No damage penalty for wounded units <in [Capital] cities>","Unit will heal every turn, even if it performs an action <in [Capital] cities>",
-		            "[40]% Strength <when attacking> <in [Capital] cities>","[40]% Strength <when defending> <in [Capital] cities>","[-80]% Strength <in [Enemy] tiles>",
-			        "All tiles cost 1 movement <in [Enemy] tiles>","[-80]% Strength <in [Foreign] tiles>","All tiles cost 1 movement <in [Foreign] tiles>"
+		            "[40]% Strength <when attacking> <in [Capital] cities>","[40]% Strength <when defending> <in [Capital] cities>","[-180]% Strength <in [Enemy] tiles>",
+			        "All tiles cost 1 movement <in [Enemy] tiles>","[-180]% Strength <in [Foreign] tiles>","All tiles cost 1 movement <in [Foreign] tiles>"
 		           ]
 	}
 ]
