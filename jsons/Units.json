@@ -6,6 +6,8 @@
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
+		"rangedStrength": 10,
+		"range": 2,
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
