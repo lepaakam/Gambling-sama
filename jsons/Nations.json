@@ -26,7 +26,8 @@
 			        "[All] units gain the [Shrine Guardian] promotion <hidden from users>",
 			        "May not annex cities",
 			        "May buy items in puppet cities",
-			        "[100]% Strength decreasing with distance from the capital"
+			        "[100]% Strength decreasing with distance from the capital",
+			        "[All] units gain the [Horns of Humility] promotion <if [Epic of Fantasy] is enabled> <hidden from users>"
 			        ]
 		"cities": ["Hakurei Shrine"]
 	}
