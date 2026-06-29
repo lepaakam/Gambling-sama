@@ -13,8 +13,6 @@
 		            "[75]% Strength bonus for [all] units within [8] tiles <in [Capital] cities>","Blast radius [8] <in [Capital] cities>",
 		            "[20] Strength <starting from the [Medieval era]>","[40] Strength <starting from the [Modern era]>"]
 		"obsoleteTech": "Iron Working",
-		"upgradesTo": "Komainu Pair",
-		"promotions": ["[Great Generals II]"]
 	},
 	{
 		"name": "Komainu Pair",
@@ -29,7 +27,6 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
-		"promotions": ["[Great Generals II]"],
 		"attackSound": "metalhit"
 	},
 ]
