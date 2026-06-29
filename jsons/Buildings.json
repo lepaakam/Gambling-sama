@@ -15,9 +15,10 @@
 		"name": "Shinto Shrine", 
 		"uniqueTo": "Hakurei Shrine",
 		"faith": 24,
-		"cost": 400,
+		"cost": 500,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": [ "[3] Movement <in [Capital] cities>" ],
+		"uniques": [ "[3] Movement <in [Capital] cities>",
+		             "[100]% Strength for cities <in [Capital] cities>"],
 	}
 ]
