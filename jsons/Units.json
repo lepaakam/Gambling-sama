@@ -9,7 +9,7 @@
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
-		"promotions": ["[]"]
+		"promotions": ["[Boarding I]","[Boarding II]","[Boarding III]"]
 	},
 	{
 		"name": "Komainu Pair",
