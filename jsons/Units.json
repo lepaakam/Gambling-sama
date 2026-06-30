@@ -12,7 +12,7 @@
 		"uniques": ["[1] additional attacks per turn", "[-200]% Strength for enemy [all] units in adjacent [all] tiles <in [Capital] cities>",
 		            "[75]% Strength bonus for [all] units within [8] tiles <in [Capital] cities>","Blast radius [8] <in [Capital] cities>",
 		            "[20] Strength <starting from the [Medieval era]>","[40] Strength <starting from the [Modern era]>"]
-		"obsoleteTech": "Iron Working",
+		
 	},
 	{
 		"name": "Komainu Pair",
@@ -24,7 +24,6 @@
 		"uniques": ["[2] additional attacks per turn", "Heals [100] damage if it kills a unit <in [Capital] cities>",
 		            "[100]% XP gained from combat <in [Capital] cities>","[30] Strength <starting from the [Medieval era]>","[60] Strength <starting from the [Modern era]>"]
 		"requiredTech": "Iron Working",
-		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
